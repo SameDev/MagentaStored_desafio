@@ -93,11 +93,7 @@ Funções feitas à parte **DEVERÃO** ser documentadas e descritas separadament
 
 # LICENCIAMENTO
 
-## TODOS os projetos deverão ser disponibilizados em licenças opensource. Para
-
-## padronizar, será usada a licença MIT em todos os projetos. A mesma será
-
-## incluída no repositório que será dado fork pelo participante.
+## TODOS os projetos deverão ser disponibilizados em licenças opensource. Para padronizar, será usada a licença MIT em todos os projetos. A mesma será incluída no repositório que será dado fork pelo participante.
 
 
 # PONTUAÇÃO
@@ -105,9 +101,12 @@ Funções feitas à parte **DEVERÃO** ser documentadas e descritas separadament
 A pontuação e suas modalidades terão os seguintes critérios:
 
 - Cada modalidade de pontuação seguirá o mesmo padrão! Sendo assim:
+
     o Cada modalidade valerá 10 pontos.
+
     o Os pontos no final serão divididos na seguinte equação: SP/NM. Sendo SP a soma dos pontos e
        NM o número de modalidades.
+
     o Cada pontuação terá um número único de sub modalidades, algumas poderão ser
        compartilhadas com outras modalidades. O cálculo será o mesmo das modalidades. SP/NSM. Ou
        seja, soma dos pontos e número de sub modalidades.
