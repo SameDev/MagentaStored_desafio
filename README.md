@@ -1,4 +1,4 @@
-# Challenge-dos-Malocas
+# Challenge dos Malocas
 O Challenge dos Malocas é um desafio super detalhado feito para desafiar o participante de uma maneira divertida e inspiradora.
 
 ![GitHub forks](https://img.shields.io/github/forks/NickRMD/Challenge-dos-Malocas)
