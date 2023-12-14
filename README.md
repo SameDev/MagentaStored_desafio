@@ -148,20 +148,17 @@ As modalidades serão as seguintes:
 
 # Indicação de faixa de pontuações
 
-## Pontuações acima de 9 - > Ótima Pontuações entre 7 e 9 - > Boa
+- ## Pontuações acima de 9 - > Ótima
+- ## Pontuações entre 7 e 9 - > Boa
+- ## Pontuações entre 5 e 7 -> Média
+- ## Pontuações entre 3 e 5 - > Ruim
+- ## Pontuações entre 1 e 3 -> Péssima
+- ## Pontuações entre 0 e 1 -> Terrível.
 
-## Pontuações entre 5 e 7 -> Média Pontuações entre 3 e 5 - > Ruim
+## Qualquer pergunta, mande aqui: nicolas@fragmenta.org
 
-## Pontuações entre 1 e 3 -> Péssima Pontuações entre 0 e 1 -> Terrível.
+## Link do GitHub [Repositório | Challenge dos Malocas](https://github.com/NickRMD/Challenge-dos-Malocas)
 
-# Qualquer pergunta, mande aqui:
-
-## nicolas@fragmenta.org
-
-# Link do GitHub
-
-## [Repositório | Challenge dos Malocas](https://github.com/NickRMD/Challenge-dos-Malocas)
-
-## QUE OS DESAFIOS COMECEM!
+# QUE OS DESAFIOS COMECEM!
 
 
