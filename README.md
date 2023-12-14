@@ -1,6 +1,13 @@
 # Challenge-dos-Malocas
 O Challenge dos Malocas é um desafio super detalhado feito para desafiar o participante de uma maneira divertida e inspiradora.
 
+![GitHub forks](https://img.shields.io/github/forks/NickRMD/Challenge-dos-Malocas)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/NickRMD/Challenge-dos-Malocas)
+![GitHub License](https://img.shields.io/github/license/NickRMD/Challenge-dos-Malocas)
+![GitHub top language](https://img.shields.io/github/languages/top/NickRMD/Challenge-dos-Malocas)
+![GitHub watchers](https://img.shields.io/github/watchers/NickRMD/Challenge-dos-Malocas)
+![GitHub Repo stars](https://img.shields.io/github/stars/NickRMD/Challenge-dos-Malocas)
+
 ## Feito por mim: O DIO HAHAHAHA (É o Nicolas mesmo)
 
 ## Link do meu GitHub: https://github.com/NickRMD
