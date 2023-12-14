@@ -120,29 +120,48 @@ A pontuação e suas modalidades terão os seguintes critérios:
 As modalidades serão as seguintes:
 
 - Usabilidade
+
     o Acessibilidade.
+
     o Experiência de usuário (UX).
+
     o Responsividade.
 - Boas práticas
+
     o Manutenibilidade.
+
     o Métodos ágeis.
 - Performance
+
     o Tempo de carregamento.
+
     o Tempo de acesso a API.
+
     o Otimização de código.
 - Velocidade de desenvolvimento
+
     o Utilização de frameworks e bibliotecas (de preferência sem bloats).
+
     o Métodos ágeis.
 - Segurança.
+
     o Encriptação de dados de usuário.
+
     o Uso de HTTPS (se possível).
+
     o Uso de tokens.
+
     o Proteção contra Injeção de Código (XSS, SQL Injection e etc.).
+
     o Gerenciamento de Sessão (incluí uso de tokens).
 - Documentação
+
     o Manutenibilidade.
+
     o Documentação de API.
+
     o Documentação in-code (comentários).
+
     o Documentação de interação básica.
 
 
