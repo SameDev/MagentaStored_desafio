@@ -1,0 +1,1 @@
+export { default } from "file:///home/samedev/projetos/MagentaStored_desafio/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
